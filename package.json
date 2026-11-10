@@ -1,0 +1,19 @@
+{
+  "name": "backenddeploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "vivek junior",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
